@@ -1,0 +1,15 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@100;300;400;600&display=swap');
+@import url('https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css');
+
+:root {
+  font-family: 'Montserrat', sans-serif; 
+  --primary: #44197E !important;
+  --primary-hover: #6626be !important;
+  --primary-focus: rgba(94, 53, 177, 0.125) !important;
+  --primary-inverse: #FFF !important;
+}
+
+body {
+  padding: 0 20px 150px 20px;
+}
